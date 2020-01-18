@@ -14,7 +14,8 @@ header{
 h1, h2{
 	font-family: 'Work Sans', sans-serif;
 }
-
+/* hieronder staan de h2 */
+/*hihi*/
 h2 {
 	font-size: 22px;
 	color: #B0E0E6;
@@ -24,7 +25,7 @@ h2 {
 header h1{
 	color: white;
 	font-size: 60px;
-	text-shadow: 1px 10px 10px blue;
+	text-shadow: 1px 10px 10px lightgrey;
 }
 
 header	img{
